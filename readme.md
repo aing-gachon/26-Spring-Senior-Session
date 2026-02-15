@@ -24,7 +24,7 @@ A.ing 시니어 트랙은 실전 실무 역량 강화와 포트폴리오 확보�
 
 ## Folder Structure
 ```text
-26-Spring-senior-session/
+26-Spring-Senior-Session/
 ├─ readme.md
 ├─ overview/
 │  ├─ track_intro.md
@@ -41,14 +41,22 @@ A.ing 시니어 트랙은 실전 실무 역량 강화와 포트폴리오 확보�
 │  ├─ cv_topics.md
 │  ├─ nlp_topics.md
 │  └─ rl_topics.md
-├─ tools/
-│  ├─ github_education.md
-│  ├─ colab_kaggle.md
-│  └─ env_setup.md
-└─ examples/
-	├─ sample_record.md
-	└─ sample_result.md
+└─ tools/
+	├─ github_education.md
+	├─ colab_kaggle.md
+	└─ env_setup.md
 ```
+
+## 담당자
+
+| 이름 | 이메일 |
+|------|--------|
+| 송이두 | song6341@gachon.ac.kr |
+
+질문이나 도움이 필요하면 언제든 연락 주세요!<br>
+이메일, 디코, 카톡 모두 환영입니다.<br>
+다들 좋은 결과 만들 수 있으면 좋겠습니다 화이팅!!
+
 
 
 
