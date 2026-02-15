@@ -41,13 +41,10 @@ A.ing 시니어 트랙은 실전 실무 역량 강화와 포트폴리오 확보�
 │  ├─ cv_topics.md
 │  ├─ nlp_topics.md
 │  └─ rl_topics.md
-├─ tools/
-│  ├─ github_education.md
-│  ├─ colab_kaggle.md
-│  └─ env_setup.md
-└─ examples/
-	├─ sample_record.md
-	└─ sample_result.md
+└─ tools/
+	├─ github_education.md
+	├─ colab_kaggle.md
+	└─ env_setup.md
 ```
 
 
