@@ -13,28 +13,28 @@
 
 ## 추천 주제 목록
 
-### MediaPipe 기반 실시간 수어 단어 인식기
+### [HCI/제스처] MediaPipe 기반 실시간 수어 단어 인식기
 - **설명**: 카메라를 통해 사람의 손동작을 추출하고, LSTM이나 Transformer를 이용해 수어 단어를 실시간으로 분류합니다.
 - **데이터셋**: AI Hub 한국 수어 데이터셋, WLASL (Word-Level American Sign Language)
 - **참고 레포**: [MediaPipe Hands](https://github.com/google/mediapipe) + PyTorch/TensorFlow
 - **난이도**: ★★★☆☆ (중급)
 - 저는 인간-컴퓨터 상호작용 분야에 관심이 많아서 이런 주제를 생각해 봤습니다. 예전에 대회에 나가서 비슷한 주제 하신 분들을 봤는데 선행 연구가 꽤 많지 않을까 싶습니다. 제 눈에는 가장 재밌어 보이는 주제입니다.
 
-### 도자기/타일 균열 자동 탐지
+### [이상탐지/비전] 도자기/타일 균열 자동 탐지
 - **설명**: 정상 제품 이미지만으로 학습하여 표면 균열, 깨짐, 스크래치를 자동 탐지
 - **데이터셋**: MVTec AD (Tile, Grid, Ceramic)
 - **참고 레포**: [Anomalib](https://github.com/openvinotoolkit/anomalib)
 - **난이도**: ★★☆☆☆ (초급~중급)
 - 스마트 팩토리나 품질 검사 등 실제 산업계 수요가 매우 높은 분야의 대표적인 문제입니다. 정상 데이터만 있으면 학습이 가능하므로, 데이터 수집과 라벨링 부담이 적습니다.
 
-### PCB(인쇄회로기판) 불량 검출
+### [이상탐지/비전] PCB(인쇄회로기판) 불량 검출
 - **설명**: 회로 기판의 긁힘, 누락, 단선 등 불량을 자동으로 탐지하는 시스템 구축
 - **데이터셋**: MVTec AD (PCB), Kaggle PCB 데이터
 - **참고 레포**: [Anomalib](https://github.com/openvinotoolkit/anomalib)
 - **난이도**: ★★★☆☆ (중급)
 - 삼성전자나 하이닉스에서 좋아할거 같은 주제가 뭘까 생각하다가 떠올랐습니다
 
-### 피부 병변/여드름 탐지 & 모델 비교
+### [객체탐지/의료] 피부 병변/여드름 탐지 & 모델 비교
 - **설명**: YOLO vs Faster R-CNN vs DETR로 피부 병변이나 여드름을 탐지하고 성능 비교
 - **데이터셋**: HAM10000 (피부암), Kaggle Acne 데이터
 - **참고 레포**: [MMDetection](https://github.com/open-mmlab/mmdetection), [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
