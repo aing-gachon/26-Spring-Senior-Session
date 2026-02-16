@@ -13,21 +13,21 @@
 
 ## 추천 주제 목록
 
-### Hugging Face RL 랭킹 도전
+### [기초/알고리즘] Hugging Face RL 랭킹 도전
 - **설명**: CleanRL 라이브러리를 활용하여 PPO, DQN, SAC 등 핵심 알고리즘을 구현하고, 학습된 에이전트를 Hugging Face Hub에 배포하여 리더보드 순위를 경쟁합니다.
 - **환경**: Gymnasium
 - **참고 레포**: [CleanRL](https://github.com/vwxyzjn/cleanrl) / [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - **난이도**: ★★☆☆☆ (초급~중급)
 - 강화학습을 처음 접하는 분들에게 좋은 주제인 것 같습니다. 단순히 구현에 초점을 두는 것보다 밑바닥부터 알고리즘을 이해하며 나아가면 많은 것을 배울 수 있을 것 같습니다.
 
-### Y-Maze 공간 학습: AI vs 쥐 인지 능력 비교
+### [인지/신경과학] Y-Maze 공간 학습: AI vs 쥐 인지 능력 비교
 - **설명**: 쥐의 해마가 공간을 학습하는 방식을 모방하여, Y자 미로에서 에이전트가 보상 위치를 기억하고 찾아가는 과정을 시뮬레이션합니다. 실제 쥐의 학습 곡선과 AI의 성능을 비교 분석합니다.
 - **환경**: RatInABox (파이썬 기반 신경과학/RL 시뮬레이션 라이브러리)
 - **참고 레포**: [RatInABox](https://github.com/RatInABox-Lab/RatInABox)
 - **난이도**: ★★★☆☆ (중급)
 - 제가 강화학습을 잘 알지는 못하지만 심리학을 복수전공하는 입장에서 가장 흥미롭게 보이는 주제입니다. 개인적으로 같이 참여해보고 싶다는 생각이 드네요. 단순히 게임 점수를 높이는 것을 넘어, 생물학적인 뇌의 학습 방식을 모방해본다는 점에서 흥미로운 프로젝트가 될 것 같습니다. 
 
-### 물류 창고 재고 관리 최적화
+### [최적화/물류] 물류 창고 재고 관리 최적화
 - **설명**: 예측 불가능한 고객 수요와 배송 지연이 존재하는 시뮬레이션 환경에서, 재고 수준과 주문 타이밍을 최적화하여 비용을 최소화하는 RL 에이전트를 개발합니다.
 - **환경**: OR-Gym
 - **참고 레포**: [OR-Gym Github](https://github.com/hubbs5/or-gym), [Deep Reinforcement Learning for Supply Chain Optimization](https://arxiv.org/abs/2011.05663)

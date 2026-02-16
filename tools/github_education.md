@@ -1,8 +1,8 @@
 # GitHub Education 가이드
 
 ## GitHub Education이란?
-GitHub Education은 학생들에게 개발 도구를 무료로 제공하는 프로그램입니다. A.ing 시니어 트랙 참여자도 활용할 수 있습니다.<br>
-개인적으로는 적극 활용하는 것을 추천드립니다.
+GitHub Education은 학생들에게 개발 도구를 무료로 제공하는 프로그램입니다.<br>
+개인적으로 적극 활용하는 것을 추천드립니다.
 
 ## 혜택 및 도구
 
