@@ -1,3 +1,5 @@
+프로젝트 README 템플릿입니다. <br>
+필요에 따라 항목을 추가하거나 선택, 수정하여 사용해주세요. <br>
 # 프로젝트 제목
 
 ![Project Banner](assets/banner.png)
